@@ -1,0 +1,5 @@
+home.ejs - Only logged-in users can access this view.
+login-register.ejs - Here, a user can log in or sign up.
+database.js - This is for making the Database Connection with the MySQL database.
+index.js - this is the app root file, here we will perform the login,registration,
+           and logout actions.
